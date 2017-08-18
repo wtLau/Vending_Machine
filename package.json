@@ -1,0 +1,15 @@
+{
+  "name": "vending_machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --watch"
+  },
+  "keywords": [],
+  "author": "Brian Lau",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  }
+}
