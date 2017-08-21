@@ -27,12 +27,12 @@ module.exports = {
     ],
     coinBalance: [
         {
-            Nickel: {
+            Nickel: [{
                 id: 1,
                 type: "Nickel",
                 value: "005",
                 quantity: 20,
-            },
+            }],
             Dime: {
                 id: 2,
                 type: "Dime",
